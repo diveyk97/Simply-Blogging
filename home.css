@@ -1,0 +1,19 @@
+.nav-item:hover{
+    background-color:white;
+    transform: scale(1.200);
+  	border-radius: 15px;
+}
+.card:hover{
+     transform: scale(1.050);
+    scroll-behavior: smooth ;
+    
+}
+.carousel-item:hover{
+    transform: scale(.90);
+    
+}
+i:hover{
+    background-color:rgb(255, 108, 40);
+    border-radius: 25px;
+    transform: scale(2.50);
+}

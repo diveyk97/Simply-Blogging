@@ -1,0 +1,11 @@
+.nav-item:hover{
+    background-color:#fd6200;
+    transform: scale(1.200);
+   color:chocolate;
+    border-radius: 25px;
+}
+i:hover{
+    background-color:rgb(255, 108, 40);
+    border-radius: 25px;
+    transform: scale(2.50);
+}
